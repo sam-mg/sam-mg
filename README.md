@@ -5,7 +5,7 @@
 
 - 📫 To reach me, just drop a mail at **sammgharish@gmail.com**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishantchauhan710&theme=highcontrast" alt="sam-mg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sam-mg&theme=highcontrast" alt="sam-mg" />
 
 ### Programming Languages
 
