@@ -21,7 +21,7 @@
 
 ### Tools and Softwares
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![MAC](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=macOS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=red) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 ## Github Statistics :bar_chart:
 <p>
@@ -30,12 +30,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sam-mg&count_private=true&show_icons=true&include_all_commits=true" alt="sam-mg | Stats"/>
 </p>
 
-## Contributions :chart_with_upwards_trend:
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sam-mg&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>
-
-
 ## Contact :mailbox_with_mail:
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsam_mg_&style=for-the-badge&logo=x&logoColor=white&label=Twitter&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2Fsam_mg_%2F) ![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fsam.mg__%2F&style=for-the-badge&logo=instagram&logoColor=pink&label=Instagram&labelColor=black&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fsam.mg__%2F)
 <p align="left">
-<a href="https://linkedin.com/in/sam-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/sam-mf/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-mg" height="30" width="40" /></a>
-<a href="https://instagram.com/sam-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/sam-mg/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam-mg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sam-mg-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishantchauhan710" height="30" width="40" /></a>
 </p>
