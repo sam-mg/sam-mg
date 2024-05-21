@@ -32,7 +32,9 @@
 
 ## Contact :mailbox_with_mail:
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsam_mg_&style=for-the-badge&logo=x&logoColor=white&label=Twitter&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2Fsam_mg_%2F) ![Instagram](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.instagram.com%2Fsam.mg__%2F&style=for-the-badge&logo=instagram&logoColor=pink&label=Instagram&labelColor=black&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fsam.mg__%2F)
-<p align="left">
-<a href="https://www.linkedin.com/in/sam-mg-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishantchauhan710" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/sam_mg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_retr0ds_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sam-mg-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25170327/sam-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="a" height="30" width="40" /></a>
+<a href="https://instagram.com/sam.mg__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
 </p>
