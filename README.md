@@ -37,4 +37,6 @@
 <a href="https://linkedin.com/in/sam-mg-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25170327/sam-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="a" height="30" width="40" /></a>
 <a href="https://instagram.com/sam.mg__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/821692500670021652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="a" height="30" width="40" /></a>
+
 </p>
