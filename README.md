@@ -43,3 +43,5 @@
 <a href="https://discordapp.com/users/821692500670021652" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" /></a>
 <a href="mailto:sammgharish@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 </p>
+
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=sam-mg&label=Profile%20Views&color=12&icon=0&pretty=true"/> </p>
