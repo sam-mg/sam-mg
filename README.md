@@ -1,7 +1,5 @@
 # Hi, I'm Sam <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-### Meet a dynamic Android Application Security Enthusiast and Python Wizard hailing from vibrant India!
-
-- 💬 Ask me anything related to **Android**, **Python**, **C**, and more...
+### Meet a dynamic Android Application Security Enthusiast from India!
 
 ### Programming Languages
 
